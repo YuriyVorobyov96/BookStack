@@ -15,6 +15,15 @@
         </a>
     @endif
 
+    @if ($entity->isA('page') && $entity->id)
+        <div class="entity-meta-item">
+            @icon('id')
+            <div>
+            {{ trans('entities.meta_id', ['id' => $entity->id]) }}
+            </div>
+        </div>
+    @endif
+
     @if ($entity->ownedBy && $entity->owned_by !== $entity->created_by)
         <div class="entity-meta-item">
             @icon('user')
