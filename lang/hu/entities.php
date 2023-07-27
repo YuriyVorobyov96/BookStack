@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'Legutóbbi tevékenység',
     'create_now' => 'Létrehozás most',
     'revisions' => 'Változatok',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'Változat #:revisionCount',
     'meta_created' => 'Létrehozva :timeLength',
     'meta_created_name' => ':user hozta létre :timeLength',

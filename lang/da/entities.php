@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'Seneste aktivitet',
     'create_now' => 'Opret en nu',
     'revisions' => 'Revisioner',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'Revision #:revisionCount',
     'meta_created' => 'Oprettet :timeLength',
     'meta_created_name' => 'Oprettet :timeLength af :user',

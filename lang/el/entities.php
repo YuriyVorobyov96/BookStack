@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'Πρόσφατη Δραστηριότητα',
     'create_now' => 'Δημιουργία ενός τώρα',
     'revisions' => 'Αναθεωρήσεις',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'Αναθεώρηση #:revisionCount',
     'meta_created' => 'Δημιουργήθηκε :timeLength',
     'meta_created_name' => 'Δημιουργήθηκε :timeLength από :user',

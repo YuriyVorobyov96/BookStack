@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'Nedávna aktivita',
     'create_now' => 'Vytvoriť teraz',
     'revisions' => 'Revízie',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'Upravené vydanie #:revisionCount',
     'meta_created' => 'Vytvorené :timeLength',
     'meta_created_name' => 'Vytvorené :timeLength používateľom :user',

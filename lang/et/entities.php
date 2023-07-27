@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'Hiljutised tegevused',
     'create_now' => 'Lisa uus',
     'revisions' => 'Redaktsioonid',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'Redaktsioon #:revisionCount',
     'meta_created' => 'Lisatud :timeLength',
     'meta_created_name' => 'Lisatud :timeLength kasutaja :user poolt',

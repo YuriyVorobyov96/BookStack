@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'Paskutiniai veiksmai',
     'create_now' => 'Sukurti vieną dabar',
     'revisions' => 'Pataisymai',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'Pataisymas #:revisionCount',
     'meta_created' => 'Sukurta :timeLength',
     'meta_created_name' => 'Sukurta :timeLength naudotojo :user',

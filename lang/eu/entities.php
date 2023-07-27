@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'Duela gutxiko Jarduera',
     'create_now' => 'Sortu bat orain',
     'revisions' => 'Berrikuspenak',
+    'meta_id' => 'ID #:id',
     'meta_revision' => '#:revisionCount Berrikuspen',
     'meta_created' => 'Sortua :timeLength',
     'meta_created_name' => ':timeLength sortua. Erabiltzailea :user',

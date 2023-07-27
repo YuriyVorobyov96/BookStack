@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'Oxirgi faolliklar',
     'create_now' => 'Yangi yaratish',
     'revisions' => 'Reviziyalar',
+    'meta_id' => 'ID #:id',
     'meta_revision' => '#:revisionCount reviziya',
     'meta_created' => ':timeLength da yaratilgan',
     'meta_created_name' => ':user tomonidan :timeLength da yaratilgan',

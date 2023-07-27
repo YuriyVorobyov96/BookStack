@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'Activité récente',
     'create_now' => 'En créer une maintenant',
     'revisions' => 'Révisions',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'Révision #:revisionCount',
     'meta_created' => 'Créé :timeLength',
     'meta_created_name' => 'Créé :timeLength par :user',

@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'Nedavna dejavnost',
     'create_now' => 'Ustvarite eno sedaj',
     'revisions' => 'Revizije',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'Številka revizije #:revisionCount',
     'meta_created' => 'Ustvarjeno :timeLength',
     'meta_created_name' => 'Ustvaril :timeLength uporabnik :user',

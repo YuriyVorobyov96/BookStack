@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'פעילות לאחרונה',
     'create_now' => 'צור אחד כעת',
     'revisions' => 'עדכונים',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'עדכון #:revisionCount',
     'meta_created' => 'נוצר :timeLength',
     'meta_created_name' => 'נוצר :timeLength על ידי :user',

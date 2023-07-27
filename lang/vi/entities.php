@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'Hoạt động gần đây',
     'create_now' => 'Tạo ngay',
     'revisions' => 'Phiên bản',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'Phiên bản #:revisionCount',
     'meta_created' => 'Được tạo :timeLength',
     'meta_created_name' => 'Được tạo :timeLength bởi :user',

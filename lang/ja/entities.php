@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'アクティビティ',
     'create_now' => '作成する',
     'revisions' => '編集履歴',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'リビジョン #:revisionCount',
     'meta_created' => '作成: :timeLength',
     'meta_created_name' => '作成: :timeLength (:user)',

@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'Activitate recentă',
     'create_now' => 'Creează unul acum',
     'revisions' => 'Revizii',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'Revizuirea #:revisionCount',
     'meta_created' => 'Creat :timeLength',
     'meta_created_name' => 'Creat de :timeLength de :user',

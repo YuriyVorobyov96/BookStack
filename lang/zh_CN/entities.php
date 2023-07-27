@@ -17,6 +17,7 @@ return [
     'recent_activity' => '近期活动',
     'create_now' => '立刻创建',
     'revisions' => '修订历史',
+    'meta_id' => 'ID #:id',
     'meta_revision' => '版本号 #:revisionCount',
     'meta_created' => '创建于 :timeLength',
     'meta_created_name' => '由 :user 创建于 :timeLength',

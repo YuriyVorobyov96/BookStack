@@ -17,6 +17,7 @@ return [
     'recent_activity' => '近期活動',
     'create_now' => '立即建立',
     'revisions' => '修訂版本',
+    'meta_id' => 'ID #:id',
     'meta_revision' => '修訂版本 #:revisionCount',
     'meta_created' => '建立於 :timeLength',
     'meta_created_name' => '由 :user 建立於 :timeLength',

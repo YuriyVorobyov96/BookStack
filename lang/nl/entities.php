@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'Recente activiteit',
     'create_now' => 'Maak er nu één',
     'revisions' => 'Revisies',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'Revisie #:revisionCount',
     'meta_created' => 'Aangemaakt :timeLength',
     'meta_created_name' => 'Aangemaakt: :timeLength door :user',

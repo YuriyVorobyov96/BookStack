@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'Son Hareketler',
     'create_now' => 'Hemen bir tane oluştur',
     'revisions' => 'Revizyonlar',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'Revizyon #:revisionCount',
     'meta_created' => ':timeLength Oluşturuldu',
     'meta_created_name' => ':user tarafından :timeLength oluşturuldu',

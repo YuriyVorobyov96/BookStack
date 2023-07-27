@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'Aktivitet',
     'create_now' => 'Skapa en nu',
     'revisions' => 'Revisioner',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'Revisions #:revisionCount',
     'meta_created' => 'Skapad :timeLength',
     'meta_created_name' => 'Skapad :timeLength av :user',

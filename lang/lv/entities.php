@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'Pēdējās aktivitātes',
     'create_now' => 'Izveidot tagad',
     'revisions' => 'Revīzijas',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'Revīzija #:revisionCount',
     'meta_created' => 'Izveidots :timeLength',
     'meta_created_name' => ':user izveidojis pirms :timeLength',

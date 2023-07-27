@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'فعالیت های اخیر',
     'create_now' => 'اکنون یکی ایجاد کنید',
     'revisions' => 'بازبینی‌ها',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'بازبینی #:revisionCount',
     'meta_created' => 'ایجاد شده :timeLength',
     'meta_created_name' => 'ایجاد شده :timeLength توسط :user',

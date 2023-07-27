@@ -17,6 +17,7 @@ return [
     'recent_activity' => '최근에 활동함',
     'create_now' => '바로 만들기',
     'revisions' => '수정본',
+    'meta_id' => 'ID #:id',
     'meta_revision' => '판본 #:revisionCount',
     'meta_created' => '만듦 :timeLength',
     'meta_created_name' => '만듦 :timeLength, :user',

@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'نشاطات حديثة',
     'create_now' => 'أنشئ الآن',
     'revisions' => 'مراجعات',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'مراجعة #:revisionCount',
     'meta_created' => 'أنشئ :timeLength',
     'meta_created_name' => 'أنشئ :timeLength بواسطة :user',

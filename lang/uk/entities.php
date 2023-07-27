@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'Остання активність',
     'create_now' => 'Створити зараз',
     'revisions' => 'Версія',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'Версія #:revisionCount',
     'meta_created' => 'Створено :timeLength',
     'meta_created_name' => ':user створив :timeLength',

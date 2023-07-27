@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'Aktivitas Terbaru',
     'create_now' => 'Buat Sekarang',
     'revisions' => 'Revisi',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'Revisi #:revisionCount',
     'meta_created' => 'Dibuat :timeLength',
     'meta_created_name' => 'Dibuat :timeLength oleh :user',

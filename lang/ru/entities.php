@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'Недавние действия',
     'create_now' => 'Создать сейчас',
     'revisions' => 'Версии',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'Версия #:revisionCount',
     'meta_created' => 'Создано :timeLength',
     'meta_created_name' => ':user создал :timeLength',

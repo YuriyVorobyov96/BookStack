@@ -17,6 +17,7 @@ return [
     'recent_activity' => 'Последна активност',
     'create_now' => 'Създай една сега',
     'revisions' => 'Ревизии',
+    'meta_id' => 'ID #:id',
     'meta_revision' => 'Ревизия #:revisionCount',
     'meta_created' => 'Създадено преди :timeLength',
     'meta_created_name' => 'Създадено преди :timeLength от :user',
